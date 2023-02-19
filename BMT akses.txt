@@ -1,0 +1,6 @@
+host : http://binamandiriteknik.com:2095/
+
+account : 
+
+cs@binamandiriteknik.com
+BMT@2021
